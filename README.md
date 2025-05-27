@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
   <img src="https://img.shields.io/badge/Selenium-4.x-green?style=for-the-badge&logo=selenium" alt="Selenium Version">
   <img src="https://img.shields.io/badge/AWS-Credentials-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Credentials">
-  <img src="https://img.shields.io/badge/LocalStack-0.14.x-purple?style=for-the-badge&logo=localstack" alt="LocalStack Version">
+  <img src="https://img.shields.io/badge/LocalStack-4.x.x-purple?style=for-the-badge&logo=localstack" alt="LocalStack Version">
 </p>
 
 # 🚀 AWS Dev Credential & SQS LocalSync 🚀
